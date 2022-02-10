@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack web development.**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-harikrishna-b.netlify.app/](https://portfolio-harikrishna-b.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-harikrishna-b.netlify.app/](https://portfolio-harikrishna-b.netlify.app)
 
 - 💬 Ask me about **react, javascript.**
 
